@@ -1,5 +1,4 @@
-### 안녕하세요👋
-### 프로그래머 RIRIHAN 입니다.
+### 안녕하세요👋</b>프로그래머 리리한(ririhan)입니다.
 
 <!--
 **RIANAEH/RIANAEH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
