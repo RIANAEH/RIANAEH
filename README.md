@@ -1,4 +1,4 @@
-## 안녕하세요👋
+### 안녕하세요👋
 ### 백엔드 개발자와 데이터 분석 전문가를 꿈 꾸는 주니어 개발자 리리한(ririhan)입니다.
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://programmer-ririhan.tistory.com/)](https://programmer-ririhan.tistory.com/)
