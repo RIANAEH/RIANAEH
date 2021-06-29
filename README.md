@@ -1,7 +1,7 @@
 <center><img src="nolzagom1.png"/></center>
 <center>
-  백엔드 개발자와 데이터 분석 전문가를 꿈 꾸는 <br>
-  주니어 개발자 리리한(ririhan)입니다.
+  <h3>백엔드 개발자와 데이터 분석 전문가를 꿈 꾸는 <br>
+    주니어 개발자 리리한(ririhan)입니다.</h3>
 </center>
 
 
