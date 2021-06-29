@@ -1,5 +1,6 @@
 <h1>
   안녕하세요👋<br>
+  <br>
   백엔드 개발자와 데이터 분석 전문가를 꿈 꾸는 <br>
   주니어 개발자 리리한(ririhan)입니다.
 </h1>
@@ -19,7 +20,7 @@
 <a href="https://github.com/RIANAEH/ImageSearch">딥러닝 기반의 이미지 검색 프로그램 : ImageSearch</a><br>
 <br>
 <br>
-<img src="nolzagom.png"/>
+<img src="nolzagom1.png"/>
 
 [![ririhan's github stats](https://github-readme-stats.vercel.app/api?username=RIANAEH)](https://github.com/anuraghazra/github-readme-stats)
 
