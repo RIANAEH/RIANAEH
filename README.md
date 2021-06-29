@@ -1,5 +1,5 @@
 <div style=width:100%;">
-  <div style=width:50%;float:left;">
+  <div style=width:50%;float:left;background:pink;">
     <h1>
     안녕하세요👋<br>
     <br>
@@ -7,7 +7,7 @@
     주니어 개발자 리리한(ririhan)입니다.
     </h1>
   </div>
-  <div style=width:50%;float:right;">
+  <div style=width:50%;float:right;background:black">
     <img src="nolzagom1.png"/>
   </div>
 </div>
