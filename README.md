@@ -8,6 +8,8 @@
 <br>
 아직 기술적으로 부족한 점도 많고 접해보지 못한 많은 분야가 있지만 차근차근 공부해 나가고 있으며 <br>실생활의 불편을 해결해줄 수 있는 새로운 프로젝트들을 구상해나가고 있습니다:D
 </p>
+<h2>🌱PROJECT</h2>
+<a href="../Seouler">서울 통합 관광 어플리케이션 : Seouler</a><br>
 
 [![ririhan's github stats](https://github-readme-stats.vercel.app/api?username=RIANAEH)](https://github.com/anuraghazra/github-readme-stats)
 
