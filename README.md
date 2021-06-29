@@ -5,11 +5,9 @@
 <h3 align="center">백엔드 개발자와 데이터 분석 전문가를 꿈 꾸는</h3>
 <h3 align="center">주니어 개발자 리리한(ririhan)입니다.</h3>
 <br>
-<h2 align="center">💬CONTACT</h2>
-<p align="center">
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://programmer-ririhan.tistory.com/)](https://programmer-ririhan.tistory.com/)
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ririhan217@gmail.com)](mailto:ririhan217@gmail.com)
-</p>
+<h3 align="center">💬CONTACT</h2>
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://programmer-ririhan.tistory.com/)](https://programmer-ririhan.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ririhan217@gmail.com)](mailto:ririhan217@gmail.com)
 <br>
 <p>
   진행한 프로젝트들과 공부하며 작성한 코드들을 올리고 있습니다. (현재 수정해 나가는 중)<br>
