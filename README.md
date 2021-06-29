@@ -1,9 +1,10 @@
 <p align="center">
   <img src="nolzagom1.png"/>
 </p>
-<h3 align="center">Junior Developer RIRIHAN</h3>
-<h2 align="center">백엔드 개발자와 데이터 분석 전문가를 꿈 꾸는</h2>
-<h2 align="center">주니어 개발자 리리한(ririhan)입니다.</h2>
+<h4 align="center">Junior Developer</h4>
+<h3 alighn="center">RIRIHAN</h3>
+<h4 align="center">백엔드 개발자와 데이터 분석 전문가를 꿈 꾸는</h4>
+<h4 align="center">주니어 개발자 리리한(ririhan)입니다.</h4>
 <br>
 <h3 align="center">💬ABOUT</h2>
 <p align="center">
