@@ -1,7 +1,8 @@
-<span>
-<h1>안녕하세요👋</h1>
-<h2>백엔드 개발자와 데이터 분석 전문가를 꿈 꾸는 <br>
-  주니어 개발자 리리한(ririhan)입니다.</h2>
+<h1>
+  안녕하세요👋<br>
+  백엔드 개발자와 데이터 분석 전문가를 꿈 꾸는 <br>
+  주니어 개발자 리리한(ririhan)입니다.
+</h1>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://programmer-ririhan.tistory.com/)](https://programmer-ririhan.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ririhan217@gmail.com)](mailto:ririhan217@gmail.com)
@@ -16,12 +17,9 @@
 <a href="https://github.com/RIANAEH/WireSSU">TCP/IP 통신 시각화 프로그램 : WireSSU</a><br>
 <a href="https://github.com/RIANAEH/I-PT">AI 개인 트레이너 프로그램 : I-PT</a><br>
 <a href="https://github.com/RIANAEH/ImageSearch">딥러닝 기반의 이미지 검색 프로그램 : ImageSearch</a><br>
-</span>
-<sapn>
-  <img src="nolzagom.png"/>
-</span>
 <br>
 <br>
+<img src="nolzagom.png"/>
 
 [![ririhan's github stats](https://github-readme-stats.vercel.app/api?username=RIANAEH)](https://github.com/anuraghazra/github-readme-stats)
 
