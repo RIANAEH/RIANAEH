@@ -1,4 +1,4 @@
-<div>
+<div style=width:100%;">
   <div style=width:50%;float:left;">
     <h1>
     안녕하세요👋<br>
