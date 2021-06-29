@@ -1,9 +1,17 @@
-<h1>
-  안녕하세요👋<br>
-  <br>
-  백엔드 개발자와 데이터 분석 전문가를 꿈 꾸는 <br>
-  주니어 개발자 리리한(ririhan)입니다.
-</h1>
+<div>
+  <div style=width:50%;float:left;">
+    <h1>
+    안녕하세요👋<br>
+    <br>
+    백엔드 개발자와 데이터 분석 전문가를 꿈 꾸는 <br>
+    주니어 개발자 리리한(ririhan)입니다.
+    </h1>
+  </div>
+  <div style=width:50%;float:right;">
+    <img src="nolzagom1.png"/>
+  </div>
+</div>
+
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://programmer-ririhan.tistory.com/)](https://programmer-ririhan.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ririhan217@gmail.com)](mailto:ririhan217@gmail.com)
@@ -20,7 +28,6 @@
 <a href="https://github.com/RIANAEH/ImageSearch">딥러닝 기반의 이미지 검색 프로그램 : ImageSearch</a><br>
 <br>
 <br>
-<img src="nolzagom1.png"/>
 
 [![ririhan's github stats](https://github-readme-stats.vercel.app/api?username=RIANAEH)](https://github.com/anuraghazra/github-readme-stats)
 
