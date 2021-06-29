@@ -1,16 +1,9 @@
-<div style=width:100%;">
-  <div style=width:50%;float:left;background:pink;">
-    <h1>
-    안녕하세요👋<br>
-    <br>
-    백엔드 개발자와 데이터 분석 전문가를 꿈 꾸는 <br>
-    주니어 개발자 리리한(ririhan)입니다.
-    </h1>
-  </div>
-  <div style=width:50%;float:right;background:black">
-    <img src="nolzagom1.png"/>
-  </div>
-</div>
+<center><img src="nolzagom1.png"/></center>
+<center>
+  백엔드 개발자와 데이터 분석 전문가를 꿈 꾸는 <br>
+  주니어 개발자 리리한(ririhan)입니다.
+</center>
+
 
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://programmer-ririhan.tistory.com/)](https://programmer-ririhan.tistory.com/)
