@@ -11,6 +11,7 @@
 <h2>🌱PROJECT</h2>
 <a href="https://github.com/RIANAEH/Seouler">서울 통합 관광 어플리케이션 : Seouler</a><br>
 <a href="https://github.com/RIANAEH/WireSSU">TCP/IP 통신 시각화 프로그램 : WireSSU</a><br>
+<a href="https://github.com/RIANAEH/I-PT">AI 개인 트레이너 프로그램 : I-PT</a><br>
 <br>
 <br>
 
