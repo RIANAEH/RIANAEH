@@ -12,12 +12,12 @@
 <br>
 <br>
 <h3 align="center">🌱PROJECT</h3>
-<ul align="center">
-  <li><a href="https://github.com/RIANAEH/Seouler">서울 통합 관광 어플리케이션 : Seouler</a></li>
-  <li><a href="https://github.com/RIANAEH/WireSSU">TCP/IP 통신 시각화 프로그램 : WireSSU</a></li>
-  <li><a href="https://github.com/RIANAEH/I-PT">AI 개인 트레이너 프로그램 : I-PT</a></li>
-  <li><a href="https://github.com/RIANAEH/ImageSearch">딥러닝 기반의 이미지 검색 프로그램 : ImageSearch</a></li>
-</ul>
+<p align="center">
+  <a href="https://github.com/RIANAEH/Seouler">서울 통합 관광 어플리케이션 : Seouler</a><br>
+  <a href="https://github.com/RIANAEH/WireSSU">TCP/IP 통신 시각화 프로그램 : WireSSU</a><br>
+  <a href="https://github.com/RIANAEH/I-PT">AI 개인 트레이너 프로그램 : I-PT</a><br>
+  <a href="https://github.com/RIANAEH/ImageSearch">딥러닝 기반의 이미지 검색 프로그램 : ImageSearch</a><br>
+</p>
 <br>
 <br>
 
