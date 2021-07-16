@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="nolzagom1.png"/>
+  <img src="ririhan_sunflower_background.jpg"/>
 </p>
 <h4 align="center">Junior Developer</h4>
 <h3 align="center">RIRIHAN</h3>
