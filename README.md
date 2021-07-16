@@ -1,3 +1,7 @@
+<div>
+  <img src="sunflower_background.jpg"/>
+</div>
+
 <p align="center">
   <img src="nolzagom1.png"/>
 </p>
