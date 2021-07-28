@@ -9,7 +9,7 @@
 
 <h3>🌳 Tech Stack</h3>
 <p>
-  <img src="https://img.shields.io/badge/Flask-#000000?style=flat-square&logo=Flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white" />
 </p>
 
 
