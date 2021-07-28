@@ -3,6 +3,8 @@
 
 <h3>🌻 Me</h3>
 <p>
+  <img src="https://img.shields.io/badge/Blogger-FECC00?style=flat-square&logo=Blog&logoColor=black&link=https://programmer-ririhan.tistory.com/" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Mail&logoColor=black" />
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://programmer-ririhan.tistory.com/)](https://programmer-ririhan.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ririhan217@gmail.com)](mailto:ririhan217@gmail.com)
 </p>
