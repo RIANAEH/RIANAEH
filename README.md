@@ -38,9 +38,9 @@
 <p align="center">
   <a href="#">WatchU : 온라인 시험 부정행위 방지 프로그램</a><br>
   <a href="https://github.com/RIANAEH/Seouler">Seouler : 서울 통합 관광 어플리케이션</a><br>
-  <a href="https://github.com/RIANAEH/WireSSU">WireSSU : TCP/IP 통신 시각화 프로그램</a><br>
-  <a href="https://github.com/RIANAEH/I-PT">I-PT : AI 개인 트레이너 프로그램</a><br>
   <a href="https://github.com/RIANAEH/ImageSearch">ImageSearch : 딥러닝 기반의 이미지 검색 프로그램</a><br>
+  <a href="https://github.com/RIANAEH/I-PT">I-PT : AI 개인 트레이너 프로그램</a><br>
+  <a href="https://github.com/RIANAEH/WireSSU">WireSSU : TCP/IP 통신 시각화 프로그램</a><br>
 </p>
 
 
