@@ -7,14 +7,14 @@
     <img src="https://img.shields.io/badge/Blogger-FECC00?style=flat-square&logo=TechBlog&logoColor=white"/>
   </a> 
   <a href="mailto:ririhan217@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Mail&logoColor=white&link=mailto:ririhan217@gmail.com"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Mail&logoColor=white"/>
   </a>
   <a href="https://gainful-bread-fbd.notion.site/COOK-BOOK-e244a588d4fd42c896bc8f427979d5f0">
     <img src="https://img.shields.io/badge/Notion-83B81A?style=flat-square&logo=CookBook&logoColor=white"/>
   </a>
 </p>
 
-<h3>🌳 Tech Stack</h3>
+<h3>🌱 Tech Stack</h3>
 <p>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white" />
@@ -31,6 +31,11 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQueryt&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white" />
 </p>
+
+<h3>🌳 Projects</h3>
+<ul>
+  <li href="https://github.com/RIANAEH/Seouler">서울 통합 관광 어플리케이션 : Seouler</li>
+</ul>
 
 
 
