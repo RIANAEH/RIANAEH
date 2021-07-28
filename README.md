@@ -3,17 +3,16 @@
 
 <h3 align="center">🌻 Me 🌻</h3>
 <p align="center">
-    <a href="https://programmer-ririhan.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Blogger-FECC00?style=flat-square&logo=TechBlog&logoColor=white" />
+  <a href="https://programmer-ririhan.tistory.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Tech Blog-FECC00?style=flat-square&logo=Blogger&logoColor=white" />
   </a> 
   <a href="https://gainful-bread-fbd.notion.site/COOK-BOOK-e244a588d4fd42c896bc8f427979d5f0" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-83B81A?style=flat-square&logo=CookBook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cook Book-83B81A?style=flat-square&logo=Notion&logoColor=white" />
   </a>
   <a href="mailto:ririhan217@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Mail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
 </p>
-</div>
 
 <h3 align="center">🌼 Tech Stack 🌼</h3>
 <p align="center">
