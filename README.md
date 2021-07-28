@@ -4,10 +4,13 @@
 <h3>🌻 Me</h3>
 <p>
   <a href="https://programmer-ririhan.tistory.com/">
-    <img src="https://img.shields.io/badge/Blogger-FECC00?style=flat-square&logo=Tech Blog&logoColor=white&link=https://programmer-ririhan.tistory.com/"/>
+    <img src="https://img.shields.io/badge/Blogger-FECC00?style=flat-square&logo=Tech Blog&logoColor=white"/>
   </a> 
   <a href="mailto:ririhan217@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Mail&logoColor=white&link=mailto:ririhan217@gmail.com"/>
+  </a>
+  <a href="https://gainful-bread-fbd.notion.site/COOK-BOOK-e244a588d4fd42c896bc8f427979d5f0">
+    <img src="https://img.shields.io/badge/Notion-83B81A?style=flat-square&logo=CookBook&logoColor=white"/>
   </a>
 </p>
 
