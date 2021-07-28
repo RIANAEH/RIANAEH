@@ -3,7 +3,7 @@
 
 <h3>🌻 Me</h3>
 <p>
-  <!-- <img src="https://img.shields.io/badge/Blogger-FECC00?style=flat-square&logoColor=white&logo=Tech Blogk&link=https://programmer-ririhan.tistory.com/" /> -->
+  <a href="https://programmer-ririhan.tistory.com/"><img src="https://img.shields.io/badge/Blogger-FECC00?style=flat-square&logo=Tech Blog&logoColor=white&link=https://programmer-ririhan.tistory.com/"/></a> 
   <a href="mailto:ririhan217@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Mail&logoColor=white&link=mailto:ririhan217@gmail.com"/></a>
 </p>
 
