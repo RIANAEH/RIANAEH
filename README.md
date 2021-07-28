@@ -34,7 +34,7 @@
 
 <h3>🌳 Projects</h3>
 <ul>
-  <li href="https://github.com/RIANAEH/Seouler">서울 통합 관광 어플리케이션 : Seouler</li>
+  <li><a href="https://github.com/RIANAEH/Seouler">서울 통합 관광 어플리케이션 : Seouler</a></li>
 </ul>
 
 
