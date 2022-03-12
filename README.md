@@ -1,6 +1,4 @@
 
-<img src="ririhan_sunflower_background4.jpg"/>
-
 <h3 align="center">🌻 Me 🌻</h3>
 <p align="center">
   <a href="https://programmer-ririhan.tistory.com/" target="_blank">
