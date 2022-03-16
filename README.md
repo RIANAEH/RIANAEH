@@ -1,19 +1,16 @@
 
-<h3 align="center">🌻 Me 🌻</h3>
-<p align="center">
+<h3>Me</h3>
+<p>
   <a href="https://programmer-ririhan.tistory.com/" target="_blank">
       <img src="https://img.shields.io/badge/Tech Blog-FECC00?style=flat-square&logo=Blogger&logoColor=white" />
   </a> 
-  <a href="https://gainful-bread-fbd.notion.site/COOK-BOOK-e244a588d4fd42c896bc8f427979d5f0" target="_blank">
-    <img src="https://img.shields.io/badge/Cook Book-83B81A?style=flat-square&logo=Notion&logoColor=white" />
-  </a>
   <a href="mailto:ririhan217@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
 </p>
 
-<h3 align="center">🌼 Tech Stack 🌼</h3>
-<p align="center">
+<h3>Tech Stack</h3>
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
@@ -25,15 +22,17 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQueryt&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white" />
 </p>
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
 </p>
 
-<h3 align="center">🌳 Projects 🌳</h3>
-<p align="center">
+<h3>Projects</h3>
+<p>
+  <a href="https://github.com/MeetNMate">Meet&Mate : 하우스 메이트 매칭 및 공동 생활 관리 서비스 제공 플랫폼</a><br>
+  <a href="https://www.robotry.co.kr/">(주)로보트리 홈페이지</a><br>
   <a href="https://github.com/RIANAEH/WatchU">WatchU : 온라인 시험 부정행위 방지 프로그램</a><br>
   <a href="https://github.com/RIANAEH/Seouler">Seouler : 서울 통합 관광 어플리케이션</a><br>
   <a href="https://github.com/RIANAEH/ImageSearch">ImageSearch : 딥러닝 기반의 이미지 검색 프로그램</a><br>
