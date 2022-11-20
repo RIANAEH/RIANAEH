@@ -1,6 +1,6 @@
 ### 안녕하세요👋, 한해리입니다.
 
-- 백엔드 개발자
+- Backend Developer
 - main: Java, Spring, JPA, MySQL, AWS
 - sub: Python, Django, HTML, CSS, JS, React
 
